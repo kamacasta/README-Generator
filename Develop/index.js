@@ -60,11 +60,13 @@ const questions = () => {
     ])
 }
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+//
+questions()
+    .then(readmedata => {
+        const readmeMD = generateMarkdown(readmedata);
+        fs.writeFile('./generated/generatedREADME.md', readmeMD, err => {
+            if(err) throw Error(err);
+            console.log('A README file was created!')
+        })
+    }) 
 
-// TODO: Create a function to initialize app
-function init() {}
-
-// Function call to initialize app
-init();
