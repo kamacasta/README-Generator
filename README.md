@@ -33,13 +33,14 @@ To run following application please run 'node index' in the command-line to star
 
 ## Questions
 
-
+If there is any questions please take a look at my https://github.com/kamacasta/README-Generator or feel free to contact me through kamacasta983@gmail.com
 
 
 ## Credits
 
 
 
-
-
 ## Author
+
+
+Created by Kamakanui'aha'ilono J Castaneda
