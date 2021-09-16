@@ -33,18 +33,18 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'contribute',
+            name: 'contributing',
             message: 'If the user wanted to contribute to the repository what should they know?',
         },
         {
             type: 'input',
-            name: 'instilation',
+            name: 'installation',
             message: 'To install dependencies what are the necessary commands used.',
         },
         {
             type: 'input',
             name: 'test',
-            message: 'To run tests what are the necessary commands used',
+            message: 'To run tests what are the necessary commands used?',
         },
         {
             type: 'input',
@@ -66,7 +66,7 @@ questions()
         const readmeMD = generateMarkdown(readmedata);
         fs.writeFile('./generated/generatedREADME.md', readmeMD, err => {
             if(err) throw Error(err);
-            console.log('A README file was created!')
+            console.log('Your personalized ReadMe has been completed!')
         })
     }) 
 

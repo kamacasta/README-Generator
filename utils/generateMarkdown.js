@@ -6,6 +6,8 @@ function generateMarkdown(data) {
 
   ## Description
 
+  ![License]
+
   ${data.description}
 
 
@@ -20,7 +22,9 @@ function generateMarkdown(data) {
 
   ### Installation
 
-  ${data.installation}
+  Necessary dependencies, needed to run in the console:
+
+  \`\`\`${data.installation}\`\`\`
 
   ### Usage 
 
@@ -28,24 +32,27 @@ function generateMarkdown(data) {
 
   ### License
 
+  License used in this project:
+
   ${data.license}
 
 
   ### Contributuing
 
-  ${data.contributing}
+  These are the following contributers:
+
+  \`\`\`${data.contributing}\`\`\`
 
   ### Tests
 
-  ${data.test}
+  If you'd like test, used the code bellow in the console:
+
+  \`\`\`${data.test}\`\`\`
 
   ### Questions
  
-  
+  If there is any questions please take a look at my [GitHub](https://github.com/${data.github}) or feel free to contact me through ${data.email}
 
-
-
-  
 `;
 }
 
