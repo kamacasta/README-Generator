@@ -10,8 +10,34 @@ An apllication that uses the Inquirer package through the command-line it prompt
 - [Installation](#installation)
 - [Usage](#usage)
 - [Walkthrough](#walkthrough)
-- [Credits](#credits)
 - [Questions](#questions)
+- [Credits](#credits)
 - [Author](#author)
 
+## Installation 
 
+
+
+
+## Usage 
+
+
+
+
+## Walkthrough
+
+
+
+
+## Questions
+
+
+
+
+## Credits
+
+
+
+
+
+## Author
