@@ -1,12 +1,10 @@
-
+  # kama
   
-  # ReadMe-Generator
-
   ## Description
 
   ![License]
 
-  Lorem Ipsum
+  kama
 
 
   ## Table of Contents
@@ -22,11 +20,11 @@
 
   Necessary dependencies, needed to run in the console:
 
-  ```npm install```
+  ```npm index```
 
   ### Usage 
 
-  Lorem Ipsum
+  kama
 
   ### License
 
@@ -39,15 +37,15 @@
 
   These are the following contributers:
 
-  ```NONE```
+  ```kama```
 
   ### Tests
 
   If you'd like test, used the code bellow in the console:
 
-  ```NONE```
+  ```kama```
 
   ### Questions
  
-  If there is any questions please take a look at my [GitHub](https://github.com/kamacasta) or feel free to contact me through kamacasta983@gmail.com
+  If there is any questions please take a look at my [GitHub](https://github.com/kama) or feel free to contact me through kama
 

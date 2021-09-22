@@ -28,7 +28,7 @@ To run following application please run 'node index' in the command-line to star
 
 ## Walkthrough
 
-[Walkthrough Video]()
+[Walkthrough Video](https://www.awesomescreenshot.com/video/5324947?key=3fc94c617fab7788f577bf359ba236d8)
 
 
 ## Questions
@@ -38,7 +38,7 @@ If there is any questions please take a look at my https://github.com/kamacasta/
 
 ## Credits
 
-
+Credit to Marco Avalia fellow bootcamp attendee for helping me with some of my logic! https://github.com/mavila6
 
 ## Author
 
